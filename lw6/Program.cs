@@ -15,7 +15,6 @@ class Lab8QueuePartBasicLevel : ILab8QueuePartBasicLevel
     public int B { get; set; }
     public int C { get; set; }
 
-    // Додайте конструктор
     public Lab8QueuePartBasicLevel(int a, int b, int c)
     {
         A = a;
